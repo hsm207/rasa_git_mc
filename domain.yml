@@ -10,8 +10,8 @@ intents:
   - bot_challenge
 
 entities:
-  - e1
   - e2
+  - e1
   - e3
 
 responses:
