@@ -13,6 +13,7 @@ entities:
   - e2
   - e1
   - e3
+  - e4
 
 responses:
   utter_greet:
