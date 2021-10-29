@@ -16,6 +16,9 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - this is from annotator 2
+    - this is also from annotator 2
+    - final utterance from annotator 2
     - hello there (annotator 1)
     - hello there second one (annotator 1)
     - hello 3 (annotator 1)
