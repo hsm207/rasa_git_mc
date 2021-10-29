@@ -16,6 +16,9 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - hello there (annotator 1)
+    - hello there second one (annotator 1)
+    - hello 3 (annotator 1)
 
 - intent: goodbye
   examples: |
