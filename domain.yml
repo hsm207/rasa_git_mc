@@ -10,9 +10,9 @@ intents:
   - bot_challenge
 
 entities:
+  - e3
   - e1
   - e2
-  - e3
 
 responses:
   utter_greet:
